@@ -1,0 +1,25 @@
+{
+  "name": "memberships",
+  "version": "1.0.0",
+  "description": "Dynamic role management",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihaiPerju/memberships.git"
+  },
+  "keywords": [
+    "memberships",
+    "roles",
+    "permissions",
+    "security"
+  ],
+  "author": "Michael Perju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihaiPerju/memberships/issues"
+  },
+  "homepage": "https://github.com/MihaiPerju/memberships#readme"
+}
